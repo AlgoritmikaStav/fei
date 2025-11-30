@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding:25px;
+    
+}
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    🤑
+}
+
+img{
+    max-width: 100%;
+padding: 25px;
+}
+
+h1 {
+    background-color:yellow;
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+    padding: 25px;
+    text-transform: uppercase;
+}
+h2{
+    background-color: brown;
+    color: white;
+    padding: 25px;
+}
+main {
+    background-color: blue;
+    color: azure;
+    padding: 25px;
+}
+footer{
+
+
+    background-color: purple;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 25px;
+}
+a {
+    border: seagreen; 
+    color: white;
+
+}
+
